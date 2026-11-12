@@ -1,4 +1,4 @@
-// 1. Assignment operators (fresh copy of a each time)
+// 1. Assignment operators
 let a = 20, b = 10, x;
 //Addition:
 x = a; x += b;  console.log(x); // 30
